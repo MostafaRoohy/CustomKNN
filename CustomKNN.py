@@ -12,3 +12,12 @@ class CustonKNN:
         
         pass
     #
+
+
+
+
+    def Fit(self):
+
+        pass
+    #
+#
